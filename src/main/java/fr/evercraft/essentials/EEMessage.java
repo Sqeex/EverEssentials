@@ -708,9 +708,9 @@ public class EEMessage extends EMessage<EverEssentials> {
 		SUDO_DESCRIPTION("sudoDescription", 										"Fait exécuter une commande par un autre joueur"),
 		SUDO_COMMAND("sudoCommand", 												"&6commande"),
 		SUDO_COMMAND_HOVER("sudoCommandHover", 										"&c{command}"),
-		SUDO_PLAYER("sudoPlayer", 													"&7Votre {command} &7a bien était éxecutée par &6{player}&7."),
+		SUDO_PLAYER("sudoPlayer", 													"&7Votre {command} &7a bien été éxecutée par &6{player}&7."),
 		SUDO_BYPASS("sudoBypass", 													"&cVous ne pouvez pas faire exécuter de commande à &6{player}&7."),
-		SUDO_CONSOLE("sudoConsole", 												"&7Votre {command} &7à bien était éxecutée par la &6console&7."),
+		SUDO_CONSOLE("sudoConsole", 												"&7Votre {command} &7à bien été éxecutée par la &6console&7."),
 		
 		// SUICIDE
 		SUICIDE_DESCRIPTION("suicideDescription", 									"Permet de vous suicider"),
