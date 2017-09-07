@@ -672,7 +672,7 @@ public class EEMessage extends EMessage<EverEssentials> {
 		DELSPAWN_DELETE("delspawnDelete", 											"&7Vous avez supprimé le spawn &6{spawn}&7."),
 
 		SETSPAWN_DESCRIPTION("setspawnDescription", 								"Permet de définir un spawn"),
-		SETSPAWN_ERROR_GROUP("setspawnErrorGroup", 									"&cIl y a aucun groupe qui porte le nom &6{name}."),
+		SETSPAWN_ERROR_GROUP("setspawnErrorGroup", 									"&cIl n'y a aucun groupe qui porte le nom &6{name}."),
 		SETSPAWN_NAME("setspawnName", 												"&6{name}"),
 		SETSPAWN_NAME_HOVER("setspawnNameHover", 									"&cMonde : &6{world}[RT]&cX : &6{x}[RT]&cY : &6{y}[RT]&cZ : &6{z}"),
 		SETSPAWN_REPLACE("setspawnReplace", 										"&7Vous avez redéfini le spawn &6{name}&7."),
